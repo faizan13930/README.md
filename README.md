@@ -1,4 +1,4 @@
-# Developer Workspace & Daily Notes
+## Developer Workspace & Daily Notes
 
 Welcome to my personal GitHub repository. This space is dedicated to tracking my daily coding practice, automation scripts, and project workflows.
 
@@ -7,7 +7,7 @@ Welcome to my personal GitHub repository. This space is dedicated to tracking my
 - 🌱 **Learning:** Automation tools, Git workflows, and Cloud deployment
 - ⚡ **Interests:** Algorithmic trading, bots, and system optimization
 
-# 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 - **Languages:** Python, JavaScript, Bash
 - **Platforms & Tools:** Git, GitHub, VS Code, Linux
 - **Focus Areas:** Automation, Data Analysis, API Integration
