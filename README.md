@@ -12,7 +12,7 @@ Welcome to my personal GitHub repository. This space is dedicated to tracking my
 - **Platforms & Tools:** Git, GitHub, VS Code, Linux
 - **Focus Areas:** Automation, Data Analysis, API Integration
 
-## 📋 Roadmap & Activity Log
+# 📋 Roadmap & Activity Log
 - [x] Initialized repository and profile documentation
 - [ ] Set up Git environment and credentials
 - [x] Add automation utility scripts
