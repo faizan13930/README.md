@@ -14,7 +14,7 @@ Welcome to my personal GitHub repository. This space is dedicated to tracking my
 
 # 📋 Roadmap & Activity Log
 - [x] Initialized repository and profile documentation
-- [ ] Set up Git environment and credentials
+- [x] Set up Git environment and credentials
 - [x] Add automation utility scripts
 - [ ] Implement daily progress tracker
 
